@@ -1,2 +1,2 @@
-ProjectEuler-Brandon
+ProjectEuler
 ====================
